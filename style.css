@@ -1,0 +1,79 @@
+body{
+    background-color: darkkhaki;
+    width: 90%;
+    height: 90%;
+}
+
+h1 {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 5em;
+    font-style: normal;
+    border-block-end: 4px solid black;
+    padding-block-end: 4px;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 70px;
+    font-style: normal;
+    display: inline-block;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+    color: white;
+}
+
+h3 {
+    font-family: "Varela Round", sans-serif;
+    font-style: normal;
+    font-size: 50px;
+}
+
+h4 {
+    font-family: "Cormorant", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.red {
+    background-color: rgba(255, 0, 0, 0.523) ;
+}
+
+.blue {
+    background-color: rgba(95, 158, 160, 0.556);
+}
+
+.posicion1{
+    margin-inline-start: 100px;
+}
+
+.posicion2{
+    margin-inline-start: 500px;
+}
+
+.posicion4{
+    margin-inline-start: 800px;
+}
+
+.posicion4{
+    margin-inline-start: 800px;
+}
+
+.posicion5{
+    margin-inline-start: 300px;
+}
+
+.posicion6{
+    margin-inline-start: 800px;
+}
+
+section{
+    position: relative;
+    bottom: 200px;
+    left: 100px;
+}
+
